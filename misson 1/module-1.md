@@ -42,7 +42,7 @@ Big-O Notation: Measures how fast or efficient your algorithm is.
 
 
 
-##**1-3 Why Do We Even Need Data Structures?**
+## **1-3 Why Do We Even Need Data Structures?**
 
 JavaScript Built-in Data Structures:
 Array
