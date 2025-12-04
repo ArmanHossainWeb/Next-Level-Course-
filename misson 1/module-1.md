@@ -38,3 +38,44 @@ Data Structure: How data is stored (array, object, list).
 Algorithm: Step-by-step instructions to solve a problem.
 Big-O Notation: Measures how fast or efficient your algorithm is.
 
+
+
+
+
+##**1-3 Why Do We Even Need Data Structures?**
+
+JavaScript Built-in Data Structures:
+Array
+Object
+Map / Set
+
+We will also learn:
+Linked List
+Stack
+Queue
+
+
+
+
+
+## **1-4 What is an Algorithm, Really?**
+Definition:
+An algorithm is a step-by-step procedure or set of rules to solve a specific problem or perform a specific task.
+
+Characteristics of an Algorithm:
+
+Takes input
+Is finite (must end after a certain number of steps)
+Must be clear, unambiguous, and effective
+Produces output
+Algorithm Evaluation:
+
+Use Big-O notation to determine which algorithm is efficient and effective.
+
+
+
+
+
+
+
+
