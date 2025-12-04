@@ -78,4 +78,49 @@ Use Big-O notation to determine which algorithm is efficient and effective.
 
 
 
+## 1-5 The abstract idea of the Big-O notation
+
+Big-O হলো এমন একটি পদ্ধতি যার মাধ্যমে আমরা বুঝি—
+একটি কোড বা অ্যালগরিদম কত দ্রুত বা কত ধীরে চলে যখন ইনপুট বড় হতে থাকে।
+
+
+কেন দরকার?
+
+একই কাজ ২টা কোড করতে পারে—
+কিন্তু কোনটা দ্রুত চলবে, কোনটা বেশি efficient — সেটাই Big-O বলে।
+
+
+
+Common Big-O Types (সহজ উদাহরণসহ)
+O(1) – Constant Time
+
+ইনপুট যতই বড় হোক, সময় একই থাকে।
+উদাহরণ: arr[0] থেকে data নেয়া।
+
+O(n) – Linear Time
+
+ইনপুট বাড়লে সময় ঠিক সেই অনুপাতে বাড়ে।
+উদাহরণ: একটা লুপ চালানো।
+
+O(n²) – Quadratic Time
+
+Nested loop থাকলে — সময় খুব দ্রুত বাড়ে।
+উদাহরণ: ডাবল লুপ → for এর ভিতর for।
+
+O(log n) – Logarithmic Time
+
+সবচেয়ে efficient. প্রতিবার অর্ধেক করে কাজ কমে।
+উদাহরণ: Binary Search।
+
+O(n log n)
+
+Sorting algorithms (Merge sort, Quick sort average case)।
+Linear + Log মিলিয়ে efficient।
+
+
+
+
+
+
+
 
